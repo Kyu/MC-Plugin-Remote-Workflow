@@ -1,0 +1,1 @@
+psftp do-flax -bc -b .\send_to_server.script
